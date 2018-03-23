@@ -89,6 +89,13 @@
 /home/abdullah/catkin_ws/build/turtlebot3/turtlebot3_slam/CMakeFiles/install/local.dir
 /home/abdullah/catkin_ws/build/turtlebot3/turtlebot3_slam/CMakeFiles/test.dir
 /home/abdullah/catkin_ws/build/turtlebot3/turtlebot3_slam/CMakeFiles/edit_cache.dir
+/home/abdullah/catkin_ws/build/myps2/CMakeFiles/list_install_components.dir
+/home/abdullah/catkin_ws/build/myps2/CMakeFiles/install.dir
+/home/abdullah/catkin_ws/build/myps2/CMakeFiles/rebuild_cache.dir
+/home/abdullah/catkin_ws/build/myps2/CMakeFiles/install/strip.dir
+/home/abdullah/catkin_ws/build/myps2/CMakeFiles/install/local.dir
+/home/abdullah/catkin_ws/build/myps2/CMakeFiles/test.dir
+/home/abdullah/catkin_ws/build/myps2/CMakeFiles/edit_cache.dir
 /home/abdullah/catkin_ws/build/turtlebot3/turtlebot3_bringup/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir
 /home/abdullah/catkin_ws/build/turtlebot3/turtlebot3_bringup/CMakeFiles/roscpp_generate_messages_py.dir
 /home/abdullah/catkin_ws/build/turtlebot3/turtlebot3_bringup/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir

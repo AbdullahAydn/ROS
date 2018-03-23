@@ -1590,6 +1590,24 @@ turtlebot3/turtlebot3_slam/preinstall:
 .PHONY : turtlebot3/turtlebot3_slam/preinstall
 
 #=============================================================================
+# Directory level rules for directory myps2
+
+# Convenience name for "all" pass in the directory.
+myps2/all:
+
+.PHONY : myps2/all
+
+# Convenience name for "clean" pass in the directory.
+myps2/clean:
+
+.PHONY : myps2/clean
+
+# Convenience name for "preinstall" pass in the directory.
+myps2/preinstall:
+
+.PHONY : myps2/preinstall
+
+#=============================================================================
 # Directory level rules for directory turtlebot3/turtlebot3_bringup
 
 # Convenience name for "all" pass in the directory.
